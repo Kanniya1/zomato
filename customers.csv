@@ -1,0 +1,101 @@
+customer_id,name,email,phone,location,singup_date,is_premium,preferred_cuisine,total_orders,average_rating
+1,Latoya Ryan,christian76@example.com,2699157340,South Lisafort,2023-03-03,0,chinese,33,4.4
+2,Laura Villanueva,dblackburn@example.com,7716077831,Smallport,2026-04-06,0,chinese,14,3.0
+3,Adam Gray,carolyn91@example.org,0729046219,Richardmouth,2020-05-20,1,chinese,50,3.3
+4,Nicole Henry,millerdawn@example.org,4858731433,Aaronport,2020-06-30,1,arabian,9,3.1
+5,Shelby Knight,jhill@example.org,9267644187,North Dennis,2022-12-09,1,arabian,19,3.0
+6,Jeffrey Barber,joannaperry@example.com,6456081211,Port Julie,2020-12-09,1,chinese,30,4.5
+7,Benjamin Brooks,ganderson@example.com,5825979615,Marquezborough,2025-08-31,1,indian,34,4.2
+8,Ashley Butler,thomasjessica@example.net,6727387709,North Charles,2023-07-25,1,chinese,40,4.0
+9,Lori Villanueva,joshua69@example.net,5986623060,West Heatherberg,2024-11-10,1,indian,2,3.2
+10,Dr. Mary Pittman,jeremy78@example.com,2856546230,Port Susan,2023-05-24,1,italian,23,3.9
+11,Rebecca Chen,richard15@example.com,7774692796,Kevinfurt,2022-05-04,1,arabian,48,4.3
+12,Frank Anderson,mark95@example.com,5832192558,Owensland,2023-07-20,0,indian,23,4.9
+13,Andrew Sanchez,bharris@example.com,1570955826,Charlesland,2026-05-28,1,italian,11,4.7
+14,Natasha Lewis,jallen@example.org,6189486732,Brandifort,2025-03-21,1,indian,45,3.0
+15,Collin Mueller,jonesshannon@example.com,5377538992,Weaverside,2025-08-01,0,chinese,50,3.0
+16,Nancy Fields,perryspencer@example.org,7124405762,Lake Dana,2025-06-02,0,italian,6,3.9
+17,Ariana Harper,joan60@example.org,6315678842,South Jacquelinemouth,2025-01-04,0,italian,9,4.7
+18,Kathleen Walters,valerie24@example.com,1766168697,Bennettside,2022-10-07,1,italian,45,4.7
+19,Scott Baker,steven46@example.net,7453089639,Woodwardchester,2021-07-11,0,italian,20,3.2
+20,Regina Matthews,josephgarcia@example.org,5974844555,South Samuel,2020-08-26,0,chinese,2,4.9
+21,Bill Edwards,eric48@example.net,2488345177,Coxchester,2021-12-16,0,arabian,10,4.0
+22,Jasmin Cruz,lonnie04@example.com,8663062268,West Victoria,2024-02-05,1,italian,10,4.4
+23,Paul Holt,wanda24@example.com,4477914519,Garnerfurt,2026-02-12,0,italian,14,4.5
+24,Daniel Vargas,mdunn@example.org,7490453487,West Maria,2024-01-14,1,chinese,2,4.9
+25,Ashley Russell,kristy59@example.net,4926129946,North Russellside,2026-05-11,0,indian,37,4.9
+26,Nicholas Coffey,jasmine40@example.net,0786416125,Johnsside,2023-11-18,1,arabian,45,4.4
+27,Tasha Garrett,johnny66@example.org,9491291622,Port Veronica,2024-11-27,1,arabian,3,3.0
+28,Hannah Savage,samantha47@example.net,0450443239,North Jennifermouth,2022-06-27,1,chinese,37,3.0
+29,Ronald Burke,darincoffey@example.com,0122640488,Lake Kelly,2022-02-21,1,indian,12,3.3
+30,Jodi Thomas,kimberlychen@example.net,5940255361,Coreyton,2022-12-29,1,chinese,25,4.2
+31,Eddie Meyers,hillkathleen@example.net,0147849919,Mortonmouth,2022-12-14,0,arabian,4,4.9
+32,Mark Snyder,tracy17@example.com,7399821723,Wilsonmouth,2022-02-02,1,arabian,33,3.5
+33,Stephen Valdez,martinezjasmine@example.org,5002486686,West Reneeberg,2025-06-28,1,arabian,40,4.1
+34,Katherine Franklin,joseph03@example.net,1815657390,Martinport,2025-10-31,0,arabian,28,3.4
+35,James Cox,jerry76@example.net,4198602919,Navarrohaven,2020-04-14,0,italian,6,3.7
+36,Kyle Reynolds,emorales@example.com,7413635548,North Scott,2020-08-02,0,italian,22,4.7
+37,Jessica Diaz,emedina@example.org,6710138005,Port Erinchester,2023-01-20,1,arabian,13,4.5
+38,Mr. Matthew Patel,ericmccann@example.net,2890815489,Ryanport,2020-10-13,0,arabian,48,3.6
+39,Ronald Gutierrez,richard06@example.com,4831467656,Mccallside,2025-09-11,1,italian,48,3.6
+40,Joshua Gonzales,drivera@example.com,3099088932,Hannahborough,2021-05-30,0,indian,34,3.5
+41,Tracy Ferrell,melanie70@example.com,4298885915,North Jacobchester,2022-02-04,1,italian,2,4.5
+42,Jessica Ferguson,lguzman@example.net,7287367633,East Noahview,2023-03-25,0,chinese,10,3.3
+43,Alexander Webb,martin65@example.com,1739845750,Andersonburgh,2023-02-23,0,indian,8,3.1
+44,Catherine Hamilton,qporter@example.org,2748390236,South Michaelmouth,2025-08-23,0,indian,3,4.6
+45,Nicole Dixon,sarah22@example.org,4267870567,Rebeccamouth,2024-02-07,0,indian,25,3.1
+46,Cynthia Dennis,whiteandrew@example.net,5820896514,Port Royburgh,2025-01-17,1,indian,13,3.2
+47,Javier Stevens,bdalton@example.org,4582387176,West Victoriatown,2022-02-25,1,italian,22,3.6
+48,Matthew Anderson,fwells@example.com,9603929671,New Williamtown,2025-03-24,0,italian,18,3.3
+49,Tammy Garcia,valerieadams@example.com,0969351288,Jeffreyhaven,2025-04-22,1,indian,41,3.1
+50,Anthony Erickson,turnerheather@example.com,9998796886,East Brenda,2020-01-19,0,chinese,23,4.5
+51,Rebecca Dennis,rodriguezronald@example.org,0017749577,South Tracy,2021-04-19,0,italian,2,4.3
+52,Joseph Walker,pattersonann@example.com,9213269094,Karenshire,2023-11-03,1,italian,17,3.1
+53,Morgan Rocha,smithkathryn@example.net,4825791022,Zimmermanville,2025-07-27,1,italian,32,4.4
+54,William Bennett,cuevasjohn@example.com,4710810510,Danielshire,2025-10-26,1,indian,1,3.8
+55,Chelsea Santana,parkshannon@example.org,1013258861,Jacquelinetown,2023-11-06,0,italian,32,4.3
+56,Joshua Bradley,mark87@example.com,6463531972,Greenefurt,2020-02-27,1,chinese,22,3.3
+57,Gary Velez,garciajason@example.com,9843425985,Cardenasland,2023-06-23,1,indian,4,4.8
+58,Jeffery Zimmerman,matthew09@example.net,9251531896,Aliciaside,2023-07-20,0,italian,25,3.8
+59,Sandra Humphrey,kbartlett@example.net,6725985211,North Amy,2025-06-05,1,chinese,28,4.6
+60,Arthur Stephenson,tclark@example.net,2177311701,Taylormouth,2025-01-20,1,arabian,39,4.7
+61,Robert Miller,jamesweaver@example.org,9206839432,West Katelyn,2020-09-05,1,arabian,43,4.1
+62,Sara Gardner,alicia86@example.com,8469302539,North Deniseton,2025-08-11,0,arabian,44,4.2
+63,Joseph Murphy,joshuaking@example.org,5229284478,West Michaelmouth,2022-08-24,1,arabian,16,4.6
+64,Thomas Leon Jr.,jonesbrett@example.org,6098352917,West Ashleeland,2024-01-27,1,arabian,4,4.6
+65,Evan Wood,ashleemeyers@example.com,7913276799,Larsonshire,2024-11-07,0,chinese,39,3.8
+66,Brittney Richardson,flowerspatricia@example.org,3548740613,Margaretview,2020-07-06,0,indian,25,4.0
+67,Daniel Shaw,myersamanda@example.org,7175494139,Diazland,2024-04-28,1,arabian,27,4.1
+68,Laura Wolfe,james04@example.com,6290610702,South Sharon,2026-01-30,1,chinese,4,3.5
+69,Alison Deleon MD,ithompson@example.net,9393794553,Lake Terrifurt,2024-09-05,0,indian,32,3.2
+70,John Taylor,kimberlyharris@example.org,9867924037,Randyborough,2024-08-20,1,chinese,26,3.4
+71,Matthew Jones,choikathleen@example.org,3722467241,Lucasshire,2024-11-13,0,chinese,50,3.9
+72,David Beasley,gevans@example.net,4620662981,Albertmouth,2022-05-29,0,indian,35,4.3
+73,Destiny Knox,twilliams@example.net,4158377426,Johnberg,2023-11-14,1,italian,5,4.2
+74,Monica Porter,keithjanet@example.org,3571286225,West Peterland,2022-08-02,1,indian,28,3.7
+75,Dawn Miranda,cynthia05@example.net,9984483128,South Richard,2023-11-21,0,arabian,38,3.4
+76,Danielle Willis,john04@example.net,5869899675,West Elizabethtown,2025-03-01,0,chinese,47,4.8
+77,Melissa Conrad,jeffreyrobinson@example.com,4408214846,Elizabethchester,2025-04-30,0,indian,29,3.2
+78,Carrie Greene,wesleynewton@example.org,1923358447,Lake Nicoleside,2025-07-05,1,chinese,37,3.4
+79,Kristen Barnett,stephenslauren@example.net,9074121746,North Cory,2026-02-03,1,indian,27,4.4
+80,Adam Garcia,taraflynn@example.net,2604576959,Dylanhaven,2022-07-06,0,arabian,11,4.7
+81,Kathy Nelson,brentkirby@example.net,0454160845,Jefffort,2021-02-27,0,chinese,21,3.5
+82,Mark Parker,leahherrera@example.com,8110484519,North Dorothy,2022-06-17,1,chinese,15,4.3
+83,James Hampton,brianblevins@example.com,6431563123,Beckbury,2020-06-23,0,italian,21,4.7
+84,Kevin Henson,webbmichael@example.org,9018307681,South Ashleystad,2023-09-19,1,arabian,5,4.2
+85,Frank Griffith,vwilson@example.com,8430470669,Robertsberg,2023-09-05,0,chinese,37,3.4
+86,Alexandria Ryan,wcastillo@example.org,6984376193,East Thomas,2022-07-23,0,chinese,9,4.9
+87,Michael Jackson,davidbaxter@example.com,2430684111,East Kyle,2020-06-14,0,indian,40,3.2
+88,Mary Melton,bishopgregory@example.net,5340351301,Hineschester,2020-05-21,0,indian,23,4.2
+89,Kathryn Ford,amylyons@example.org,5134821581,Deborahfort,2020-05-01,0,indian,38,3.1
+90,Kenneth Thomas,charlesbrown@example.net,3779048769,Port Brandonside,2025-10-16,0,arabian,8,4.5
+91,Peter Hernandez,shannonharris@example.org,5267950086,Lake Eric,2023-07-24,1,arabian,32,4.5
+92,Scott Coleman,annaguzman@example.net,2341637944,East Alicehaven,2021-12-14,0,chinese,4,3.8
+93,Maria Holmes,scott62@example.com,2438043880,Elizabethville,2020-01-19,1,arabian,6,4.7
+94,Edward Robinson,ugreen@example.net,4940918460,Port Davidview,2024-11-22,1,indian,11,4.7
+95,Michael Gay,huffmanjose@example.com,6600706532,Robinsonmouth,2022-11-18,0,arabian,6,3.9
+96,Ryan King,megan06@example.com,2343969176,Lake Andrew,2023-09-01,0,indian,46,3.7
+97,Emily Phillips,nancythomas@example.com,8751717212,West Josephberg,2023-05-09,0,arabian,37,4.4
+98,Christopher Perry,owenstimothy@example.org,1018655137,South Russell,2024-04-22,0,indian,47,4.9
+99,Timothy Solis,uhowe@example.com,7323708569,Buckleyside,2025-01-29,0,chinese,36,4.4
+100,Mark Marquez Jr.,rallen@example.com,8214937624,Thompsonborough,2020-01-23,0,arabian,34,3.1

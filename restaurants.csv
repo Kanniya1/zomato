@@ -1,0 +1,101 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+1,Hall Ltd,arabian,Lake Chelseachester,Colleen Schwartz,59,0458969099,4.84,9,0
+2,Lutz Ltd,italian,Scottland,Joseph Matthews,23,9707912607,3.91,50,0
+3,"King, Wallace and Vaughan",indian,Morrischester,John Ruiz,35,9010833971,3.15,11,1
+4,Jenkins-Holmes,indian,East Christopher,Kenneth Salazar,26,7854128730,3.58,12,0
+5,Harvey-Thompson,chinese,South Andreamouth,Natalie Davis,42,8257531259,3.36,11,0
+6,Valenzuela Inc,arabian,South Ronaldstad,Patrick Wilkinson,44,9536889207,3.39,37,0
+7,Hernandez-Fritz,indian,Grantside,Paula Savage,49,2325042617,3.12,3,1
+8,"Hawkins, Burgess and Holloway",italian,East Jayland,Michelle Smith,25,7390069943,3.12,8,0
+9,Parrish-Lynch,italian,Lake Brian,Edward Lane,23,0814964054,4.94,26,1
+10,Kim Group,chinese,East Michaelland,Tina Crawford,45,2383030639,3.08,7,0
+11,Wilson-Diaz,indian,Anthonyberg,Benjamin Riddle,55,1981738615,3.86,12,0
+12,Wilson Ltd,chinese,Rangelside,Lisa Pierce,55,9022823109,4.23,32,1
+13,Armstrong Inc,italian,Lake Shelly,Jordan Miller,30,6666018427,3.53,48,1
+14,Lewis-Gross,arabian,Bradyfort,Bobby Valdez,54,3657116135,3.88,32,0
+15,"King, Robinson and Osborne",chinese,Breannaberg,David Evans,22,1140585196,3.38,18,1
+16,Garcia-Stark,italian,West Heidi,Amber Simon,42,1937113280,4.14,40,1
+17,Tucker-Hess,indian,West Christopherton,Christian Chapman,48,9536793160,3.88,14,0
+18,Kelley Inc,indian,Lake Kimbury,Kristin Carney,27,6746074523,4.72,28,1
+19,Ward LLC,italian,Nobleview,Jacob Williams,47,7246071494,4.76,8,0
+20,Weeks PLC,indian,Fergusonmouth,Charles Allen,49,6262625175,3.69,39,0
+21,Kelly-Lin,italian,New Debrastad,David Herrera,21,5986738267,4.23,36,0
+22,Pace-Nguyen,arabian,Zamorafort,Veronica Foley,31,4896920591,3.25,6,0
+23,Davis-Curry,arabian,North Alexandra,Kristy Lane,27,6292482910,4.57,25,0
+24,Vincent-Wilson,italian,Williamsfurt,David Cunningham,44,4314245645,3.06,49,0
+25,Cervantes Group,arabian,New Timothyton,Kimberly Alexander,33,7010553141,3.43,47,1
+26,Collins Inc,italian,Stonestad,Stacey Nelson,58,2529923221,3.68,22,0
+27,"Jones, Spencer and Wright",indian,East Brandon,Erica Washington,46,3165420241,4.08,18,0
+28,"Solis, Nguyen and Perez",arabian,East Kevin,Kristi Stafford,36,9877416592,3.79,11,1
+29,"Wilson, Jones and Tran",chinese,Beasleystad,Shelley Coleman,57,2740040625,3.22,15,0
+30,Graves-Weber,arabian,East Tiffanymouth,Mark Ingram,47,6489427999,3.36,13,0
+31,Mcclure and Sons,chinese,West Kimberlyton,Dorothy Campbell,30,7688541432,4.67,16,0
+32,Hendricks-Leblanc,indian,Kimberlychester,Kerry Armstrong,55,4752597262,3.76,28,1
+33,Carpenter-Marshall,indian,Brandonview,Brittney Harris,45,0914807705,4.13,31,0
+34,"Ibarra, Tucker and Thompson",arabian,New Whitneyport,Phillip Sanchez,54,1569434753,3.24,28,1
+35,"Williams, Shannon and Mitchell",indian,West Susan,Chris Elliott,56,6247699945,3.35,13,1
+36,Mason-Gaines,arabian,Smithton,Cynthia Cooley,47,4398829704,4.56,20,0
+37,Smith LLC,italian,Richardhaven,Cynthia Horton,27,6248522133,3.24,29,0
+38,Alvarez-Diaz,chinese,South Jessicamouth,John Garza,29,4914887369,4.37,39,1
+39,Rich-Rogers,indian,Jennaburgh,Andrea Perry,47,9612358395,4.85,42,1
+40,Young PLC,indian,Daniellefort,George Nicholson,57,0611510678,4.64,39,0
+41,"Burns, Sanchez and Smith",chinese,Lindaberg,Nathan Heath,46,2257756615,3.67,38,0
+42,"Cortez, Haynes and Branch",arabian,South Derek,Mr. Gregory Eaton,36,2773990524,4.97,11,1
+43,Allen-Floyd,chinese,Port Andrew,Rebecca Martin,21,1255288849,3.12,48,1
+44,Rose Group,arabian,Garciamouth,Richard Edwards,21,7163536260,3.77,4,1
+45,Brown and Sons,arabian,Amandashire,Gina Estrada,33,4504203584,4.61,9,0
+46,Weeks-Martin,chinese,Robertbury,Katherine Mathis,36,7987999893,3.66,31,1
+47,Wheeler Group,chinese,Dixonchester,Christopher Barrett,46,7809508777,4.91,22,1
+48,Gonzalez-Andersen,indian,East Todd,Sherri Miller,24,1670178271,4.65,43,1
+49,Hull Ltd,italian,Kirkmouth,Eric Evans,56,4689910430,4.37,9,0
+50,Jenkins Group,italian,New Lindachester,Danielle Gardner,40,6588867516,4.28,6,1
+51,"Scott, Bradley and Lamb",arabian,Kellyburgh,Kirsten Jones,33,4140831171,4.0,26,1
+52,Nixon-White,chinese,West Brianhaven,Jeffery Washington,55,5165877651,3.9,10,1
+53,"Glover, Braun and Mullen",arabian,Alishahaven,Melanie Richards,44,6819769866,4.68,1,0
+54,Reilly-Willis,italian,Port Jacqueline,Amy Daniel,23,2147553512,4.24,36,0
+55,"Pope, Campos and Walton",indian,Smithview,Julie Jones,30,1541151120,3.93,38,0
+56,"Browning, Adkins and Gonzales",chinese,Leefort,Elizabeth Bryant,49,2957437308,3.42,38,0
+57,Watkins Ltd,indian,West Tabitha,Brittany Beck,60,3721887013,4.75,13,1
+58,Thornton Group,chinese,West Paul,Shane Klein,57,5217944973,3.9,8,1
+59,"Griffin, Perez and Mcclure",italian,Caseybury,Bryan Arnold,57,2697153473,4.82,9,1
+60,Wilkins-Mcpherson,indian,Juanmouth,Kyle Lyons,30,7879886862,3.64,18,0
+61,Thompson-Velazquez,chinese,Tylerville,Thomas Calhoun,57,0950167015,3.03,33,1
+62,Ochoa-Brown,italian,Raystad,Jose Larson,34,7999919350,4.87,3,1
+63,"Little, Lara and Mosley",arabian,Lake Michaelberg,Michele Hardy,27,6556760736,4.06,12,0
+64,Gould and Sons,indian,South Katelynfurt,Todd Reynolds,22,1354928640,3.69,16,0
+65,Castillo Group,indian,Kerrmouth,Mrs. Karla Jones MD,28,0351598618,4.65,47,1
+66,Castro-Johnson,chinese,West Amy,Daniel Schultz,31,4981869380,4.56,39,1
+67,"Wilson, Perry and Bryant",indian,New Belinda,Jessica Villa,44,8765540896,3.81,29,1
+68,Hudson-Conley,arabian,Walkerview,Mark Mayer,35,0121453111,3.8,39,0
+69,"Wallace, Lawson and Wright",italian,Lake Paige,Alexander Baldwin,39,3365864652,3.81,39,1
+70,Perry and Sons,chinese,West Shawn,Samantha Kramer DVM,45,8830275559,3.31,33,0
+71,"Melendez, Parks and Aguilar",indian,Port Jonside,Dominic Figueroa,47,0434464558,3.12,13,1
+72,Hebert Group,indian,Bowersborough,Jonathan Benson,42,5098940501,3.38,22,1
+73,Johnson-Thomas,chinese,East David,Christian Riley,32,9099514584,4.34,18,1
+74,Thompson-Barker,italian,Sosaborough,Ryan Brown,52,0076238645,3.87,30,1
+75,Bailey-Jennings,chinese,North Peterside,Debbie Mcdowell,25,2652228867,3.63,31,0
+76,"Guzman, Ross and Vasquez",indian,Port Stephanieberg,Lisa Foster,54,7698649009,4.96,8,0
+77,Hughes and Sons,chinese,Crystalshire,Shannon Silva,26,9016126924,3.11,2,1
+78,"Ferguson, Ingram and Sherman",indian,Yangland,Laura Chandler,28,4196184469,4.88,39,0
+79,Anderson PLC,italian,Port Richardfort,Ashley Jones,42,5131914653,4.58,40,0
+80,Morris-Peters,arabian,Cantrellland,Nicholas Pham,22,3210770940,3.84,29,1
+81,Pugh Ltd,italian,South Susanchester,Tracy Ellison,52,7014708914,4.42,8,0
+82,"Campos, Townsend and Harmon",arabian,Moranstad,Brandy Burgess,50,8683132948,3.9,10,0
+83,"Perez, Rodriguez and Alvarez",indian,North Shaun,Kevin Gilmore,35,0307403144,4.08,35,1
+84,Lee Ltd,arabian,North Michaelview,Kenneth Smith,54,5511239478,4.0,17,0
+85,Gardner-Wells,arabian,Cruzstad,Terrance Moore,28,6457708193,4.21,37,1
+86,Montoya-Howard,italian,Garybury,Mary Alvarado,50,8045812790,4.41,28,0
+87,Jones PLC,italian,Gravesland,Emily Thomas,24,0489449018,4.59,33,0
+88,Lane-Kim,indian,New Andrewton,Amanda Hanna,53,3895782245,4.11,49,1
+89,Branch-Chen,arabian,East Craig,Michael Obrien,43,5294929720,4.74,31,0
+90,Clark-Kennedy,italian,East Stephanie,Felicia Myers,27,2770405912,3.82,35,1
+91,Curry Inc,italian,Port Cherylside,Dr. Rebecca Morris,41,8022174783,3.82,45,1
+92,Peck-Stevens,indian,Laurenberg,Joseph Sharp,43,2094566248,3.42,19,0
+93,"Gates, Smith and Boone",chinese,Trevinoland,Dylan Russell,53,0618100003,3.58,5,1
+94,"Martin, Vargas and Rogers",arabian,North Katie,Mr. Steven Carney,59,1426696034,4.2,41,1
+95,Bauer LLC,arabian,New Matthew,Matthew Hahn,26,8082970936,3.71,13,0
+96,Robinson Group,chinese,West John,Anthony Jones,41,6106268682,4.19,50,1
+97,Smith LLC,arabian,South Kathyton,John Bird,49,2389147270,3.51,6,1
+98,"Stark, Johnson and Wood",italian,New Amanda,Leslie Meadows,34,5160917830,3.91,2,1
+99,Martin-Harris,indian,West Georgechester,Kathleen Suarez,33,9477911824,4.76,30,1
+100,Pittman-Sanford,italian,Katieborough,Matthew Zhang,31,7731322383,4.67,28,1

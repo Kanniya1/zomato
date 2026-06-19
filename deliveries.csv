@@ -1,0 +1,101 @@
+delivery_id,oredr_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type
+1,1,2,assinged,19.63,11,51,91.95,scooter
+2,2,182,on the way,2.59,46,43,29.99,cycle
+3,3,82,delivered,19.38,45,31,86.13,cycle
+4,4,53,cancelled,7.82,49,36,96.91,bike
+5,5,6,on the way,3.12,43,55,40.94,cycle
+6,6,195,assinged,13.58,44,56,78.1,bike
+7,7,38,on the way,14.73,51,35,88.56,cycle
+8,8,123,assinged,14.67,19,19,95.36,scooter
+9,9,80,on the way,7.76,42,32,77.43,scooter
+10,10,182,delivered,18.21,43,26,32.09,bike
+11,11,138,assinged,11.54,48,24,78.31,cycle
+12,12,105,on the way,9.56,17,57,83.37,bike
+13,13,52,cancelled,17.9,22,31,30.67,scooter
+14,14,195,assinged,7.92,22,55,46.58,bike
+15,15,97,cancelled,9.3,49,23,76.57,cycle
+16,16,22,delivered,7.08,56,55,87.49,bike
+17,17,75,cancelled,9.15,11,35,52.19,bike
+18,18,103,on the way,12.0,11,16,50.32,cycle
+19,19,20,assinged,9.47,50,30,72.92,scooter
+20,20,85,assinged,3.85,27,55,51.93,scooter
+21,21,97,assinged,13.16,15,42,86.68,bike
+22,22,186,cancelled,3.72,33,24,26.97,cycle
+23,23,105,on the way,8.68,18,58,44.61,bike
+24,24,16,cancelled,13.29,51,39,23.14,bike
+25,25,35,cancelled,14.86,49,50,70.14,cycle
+26,26,186,cancelled,9.69,49,43,30.5,cycle
+27,27,162,delivered,14.85,38,28,42.2,bike
+28,28,82,on the way,3.48,16,52,96.31,cycle
+29,29,189,cancelled,18.44,12,28,20.25,bike
+30,30,36,on the way,10.82,18,18,64.87,scooter
+31,31,192,assinged,10.69,39,35,45.05,cycle
+32,32,136,assinged,16.06,17,68,92.8,cycle
+33,33,24,assinged,10.01,41,48,91.24,cycle
+34,34,18,on the way,6.83,35,23,20.32,bike
+35,35,29,assinged,13.21,37,68,63.06,bike
+36,36,30,on the way,2.4,13,29,20.42,bike
+37,37,59,delivered,7.02,33,32,58.95,scooter
+38,38,93,delivered,1.53,12,66,36.83,bike
+39,39,143,cancelled,10.19,38,42,93.82,scooter
+40,40,194,cancelled,4.52,25,44,63.55,bike
+41,41,81,on the way,7.93,33,40,65.59,cycle
+42,42,27,on the way,2.69,35,50,56.84,cycle
+43,43,163,delivered,6.24,10,46,76.66,cycle
+44,44,116,cancelled,15.76,24,42,43.46,scooter
+45,45,101,on the way,4.74,15,57,86.02,bike
+46,46,139,on the way,6.96,43,33,51.49,scooter
+47,47,142,delivered,9.2,36,19,56.88,scooter
+48,48,74,delivered,17.41,51,69,65.41,bike
+49,49,130,on the way,4.82,50,22,83.28,cycle
+50,50,160,assinged,10.3,16,29,89.23,scooter
+51,51,151,cancelled,4.6,55,61,65.79,scooter
+52,52,19,delivered,10.9,16,60,93.38,cycle
+53,53,94,assinged,8.38,30,35,45.41,scooter
+54,54,138,assinged,16.57,15,51,84.43,scooter
+55,55,9,on the way,13.67,47,43,24.97,cycle
+56,56,32,on the way,7.65,25,28,90.12,cycle
+57,57,141,assinged,8.73,48,42,51.42,bike
+58,58,19,delivered,12.55,57,17,64.55,cycle
+59,59,79,cancelled,11.78,44,33,65.51,cycle
+60,60,113,delivered,5.17,48,64,89.16,cycle
+61,61,113,on the way,14.54,20,59,35.24,bike
+62,62,120,on the way,2.74,25,56,87.32,scooter
+63,63,60,delivered,5.75,37,55,97.67,cycle
+64,64,134,on the way,9.2,19,50,57.46,bike
+65,65,63,cancelled,7.37,12,63,33.68,cycle
+66,66,40,delivered,11.8,31,30,90.14,cycle
+67,67,101,on the way,19.63,59,23,85.07,scooter
+68,68,149,assinged,3.47,10,50,76.47,bike
+69,69,154,cancelled,7.66,57,62,94.95,scooter
+70,70,12,assinged,12.42,22,66,64.81,scooter
+71,71,74,delivered,5.09,12,37,22.49,bike
+72,72,2,on the way,14.57,26,70,25.23,cycle
+73,73,123,on the way,13.82,34,24,80.18,cycle
+74,74,22,cancelled,13.48,10,28,23.24,bike
+75,75,48,delivered,8.48,47,59,26.92,bike
+76,76,198,on the way,9.14,22,61,86.49,bike
+77,77,108,delivered,2.86,53,43,75.98,scooter
+78,78,162,delivered,9.35,58,24,68.9,scooter
+79,79,84,on the way,13.59,23,52,65.07,cycle
+80,80,7,on the way,18.91,35,38,56.77,bike
+81,81,140,assinged,3.99,36,48,51.07,scooter
+82,82,193,assinged,16.54,30,63,52.01,cycle
+83,83,51,delivered,3.18,10,53,94.57,scooter
+84,84,10,delivered,13.83,10,61,85.1,bike
+85,85,95,assinged,18.92,25,28,24.06,scooter
+86,86,62,cancelled,4.83,49,36,22.0,cycle
+87,87,59,cancelled,16.87,24,66,52.4,cycle
+88,88,128,delivered,7.45,53,45,44.54,scooter
+89,89,174,assinged,2.35,38,53,93.79,scooter
+90,90,103,delivered,16.36,48,55,89.98,cycle
+91,91,182,delivered,14.93,44,24,40.59,bike
+92,92,80,delivered,10.86,40,20,66.08,scooter
+93,93,138,cancelled,8.64,52,26,93.83,cycle
+94,94,54,on the way,2.11,10,67,86.55,scooter
+95,95,47,delivered,1.06,38,36,81.96,bike
+96,96,132,cancelled,15.98,36,34,27.74,cycle
+97,97,178,assinged,15.66,27,58,99.28,cycle
+98,98,73,on the way,1.23,46,31,56.39,bike
+99,99,69,on the way,12.34,32,50,38.52,cycle
+100,100,110,delivered,10.89,34,27,64.98,scooter

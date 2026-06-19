@@ -1,0 +1,101 @@
+delivery_person_id,name,contact_number,vehicle_type,total_deliveries,average_rating,location
+1,Ronald Thomas,0014504522,scooter,321,5.0,Jeffreyside
+2,Shelley Sandoval,5562399860,scooter,515,4.55,Gentryport
+3,David Peters,1713200543,scooter,282,4.13,East Michael
+4,Mr. Victor Howell,2518138328,scooter,174,3.62,Shawville
+5,Jennifer Bailey,4611166368,bike,741,3.67,North Brucefort
+6,Angel Carter DVM,0833659947,scooter,170,4.1,East Janetmouth
+7,Michael Gonzalez,4695122751,cycle,809,4.44,East Catherine
+8,Amy Powell,9178980761,bike,821,3.72,Jacobborough
+9,Michael Mathis,0011629086,scooter,910,3.83,Laneside
+10,Mary Fischer,0321201275,scooter,569,5.0,Kennedyborough
+11,Charles Huber,2431578365,cycle,80,4.17,South Ruth
+12,Maria Mills,6148081736,bike,228,5.0,Port Melissamouth
+13,Jonathan Herring,6104336663,scooter,367,4.16,Angelastad
+14,Mary Bailey,2234794903,scooter,590,3.85,Angelaport
+15,Kevin Lee,0199691701,scooter,678,3.11,Emilyborough
+16,Emily Stewart,6067860898,bike,350,3.5,Gonzalestown
+17,Debbie Chung,9900703742,bike,211,3.79,Port Deborahville
+18,Mark Carter,4851577915,bike,572,4.77,Port Joshua
+19,Sheri Green,6429536917,cycle,728,4.01,Elizabethland
+20,Jennifer Marshall,9741686366,scooter,361,4.79,East Dawn
+21,Virginia Zavala,1077901516,scooter,293,4.65,Brianton
+22,Sara Brooks,0272940733,bike,884,3.34,Robertshaven
+23,Marvin Hess,1252538495,cycle,498,3.02,Jamesland
+24,Thomas Robertson,2039684326,bike,912,4.88,Hayeshaven
+25,Jose Flores DVM,1515337405,bike,649,4.31,Whitemouth
+26,Lisa Baker,3485398669,scooter,799,4.53,Donaldsonland
+27,Ryan West,3531301534,cycle,924,4.14,Arnoldburgh
+28,David Odom,5810261979,cycle,159,3.71,South Stephentown
+29,John Norton,6525076201,bike,195,4.61,Port Elizabethview
+30,Noah King,1424308401,scooter,425,4.72,Herrerashire
+31,Lisa Herrera,3288321182,bike,714,3.17,Smithshire
+32,Andrea Miller,0909580009,cycle,334,3.8,Kristimouth
+33,Karen George,7609215088,scooter,675,3.61,East Vincenttown
+34,David Harris,0258706821,scooter,804,3.21,Blakeport
+35,Beverly Vargas,2372585123,cycle,430,4.88,Esparzaport
+36,Mrs. Alicia Howard,8045416677,bike,128,3.07,West Jenniferbury
+37,Kimberly Bonilla,3722229539,scooter,770,4.18,Henryberg
+38,Nicholas Perez,2238726869,scooter,227,4.18,Jenniferbury
+39,Ruth Fox,6453543979,cycle,764,3.07,Port Valeriehaven
+40,Jessica Bender,5007927096,bike,204,4.21,Port Billy
+41,Brian Ross,4322239165,bike,756,3.49,Port Jason
+42,Mindy Medina,2497548661,scooter,847,3.32,Jonesfort
+43,Ian Lawson,1481384339,cycle,503,3.61,New Bethmouth
+44,Cameron Page,4121167970,cycle,1000,4.8,West Michelle
+45,Matthew Glover,3512877768,bike,353,3.49,Barreraville
+46,Michael Li,6831789410,scooter,315,3.31,Tracyberg
+47,James Hurst,4440368552,bike,938,4.5,South Robert
+48,Thomas Taylor,9995281193,cycle,506,3.2,Port Jim
+49,Elizabeth Bender,3479163298,bike,567,4.87,Lake Robertborough
+50,Tina Moore,2143390553,cycle,849,4.6,Martinton
+51,Max Finley,1036399133,scooter,486,3.99,Mikestad
+52,Jason Ho,0160486938,cycle,301,3.66,Port Edwardmouth
+53,Lisa Ellison,1989809534,cycle,459,4.4,Jilltown
+54,Jeffery Meyer,3743989043,bike,189,4.16,Lake Margaretmouth
+55,Sean Hoffman,2077320440,scooter,314,4.27,Joneschester
+56,Henry Zavala,5248887415,scooter,196,4.71,Johnmouth
+57,Sheila Meza,3239640417,cycle,655,3.63,Martinstad
+58,Robert Foley,6921598714,bike,845,4.47,East Sean
+59,Dana Barnes,4306445015,bike,244,3.92,Lake Debra
+60,Kayla Durham,7334482418,bike,433,4.49,Perkinsside
+61,Dennis Hall,8570106281,bike,545,4.49,Russellbury
+62,Samuel Martinez,4234157285,bike,541,4.41,North Amandafort
+63,William Shepherd,4163098263,cycle,71,3.41,Port Seanburgh
+64,Amber Williams,3958355212,bike,244,3.85,Tanyafurt
+65,Barry Rose,6527097616,scooter,297,3.38,Port Antonio
+66,Christopher Hale,2220065034,cycle,266,4.89,Lake Madison
+67,Mark Jones,5986095606,cycle,676,3.13,South Amandaville
+68,Beth Larson,9080865946,scooter,529,4.66,Cheyenneburgh
+69,Chelsea Curtis MD,8744313283,scooter,755,4.28,Elliston
+70,Christina Wolf,0044359186,bike,943,3.67,Smithmouth
+71,Justin Williams,3716824663,cycle,472,3.32,East Christopherhaven
+72,John Moody,8290471910,cycle,85,3.85,New James
+73,James May,5767951234,scooter,585,4.58,Jenniferfurt
+74,Kenneth Miller,4048007754,scooter,50,4.67,New Erica
+75,Edward Wells,6979894893,bike,206,4.86,North Natalie
+76,Alexis Johnson,9134735411,bike,226,3.81,Port Jenniferville
+77,Nathan Schroeder,7557254373,cycle,388,3.98,East Richardmouth
+78,David Williams,2131980946,cycle,524,3.65,Collinsport
+79,James Morris,4929888742,cycle,59,4.49,Brookeland
+80,Jeffrey Valdez,5620907460,scooter,494,3.5,Port Shannonfort
+81,John Johnston,9149937699,bike,381,4.92,Paulastad
+82,Leah Chandler,3959298964,bike,305,3.19,Richardville
+83,Alex Patton,8979903350,bike,895,3.42,Danabury
+84,Morgan Cortez,2101412662,scooter,178,3.12,Halltown
+85,William Carlson,6244524908,scooter,204,3.36,South Evanmouth
+86,Daniel Blevins,1793698195,bike,542,4.39,Lake Davidton
+87,Jason Mahoney,1485154037,cycle,225,3.38,Armstrongshire
+88,Kathleen Douglas,1588312013,bike,214,3.66,South Shawn
+89,Anthony Cohen,0932312360,cycle,998,4.18,New Samantha
+90,Toni Nelson,5098265323,bike,878,4.44,Port Janetside
+91,Jeffrey Smith,9837439227,cycle,882,3.14,Kristinshire
+92,Katherine Logan,9459008463,bike,524,4.4,Deleonstad
+93,Mr. Patrick Parker,9887933059,scooter,976,4.16,South Benjamin
+94,Victoria Berger,1304650405,bike,188,3.82,West Amanda
+95,Megan Rodriguez,9661510177,bike,648,4.34,Port Travisland
+96,Robert Sanders,4157729772,bike,630,3.54,Port Jasmine
+97,Krista Lopez,9372946205,cycle,433,3.31,Jacobfurt
+98,Albert Peterson,0413319534,bike,655,3.93,New Sarahmouth
+99,Anna Mosley,8329886854,cycle,331,4.71,West Ronnie
+100,Nicole Garcia,7055514845,cycle,537,4.44,Mendezfort
